@@ -2,7 +2,7 @@
 
 A simple Weather Tracker using React / Redux / Google Maps API / OpenWeather API
 
-###Getting Started###
+## Getting Started
 
 ```
 	> npm install
